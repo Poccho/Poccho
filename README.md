@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roger Anthony D. Bairoy</h1>
 <h3 align="center">A passionate Frontend and Backend developer from The Philippines</h3>
 
-- 🔭 I’m currently working on [LGU-Sports](https://github.com/Poccho/LGU_Sports.git)
-
-- 🌱 I’m currently learning **React.js, Flutter and Python**
+- 🌱 I’m currently learning **ASP.NET Core, Laravel and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Poccho](https://github.com/Poccho)
 
