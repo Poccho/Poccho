@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Poccho](https://github.com/Poccho)
 
-- 📫 How to reach me **rogeranthony1127@gmail.com**
+- 📫 How to reach me **rogeranthonydbairoy@gmail.com**
 
 - 📄 Know about my experiences [poccho.github.io/RogerBairoy](poccho.github.io/RogerBairoy)
 
